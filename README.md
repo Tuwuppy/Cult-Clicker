@@ -1,2 +1,2 @@
 # Cult-Clicker
-website for my idle game, cult clicker (coming soon tm)
+website for my incremental game, cult clicker (coming soon tm)
